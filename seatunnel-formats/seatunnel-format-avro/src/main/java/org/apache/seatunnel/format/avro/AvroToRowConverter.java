@@ -45,7 +45,7 @@ import java.util.List;
 
 public class AvroToRowConverter implements Serializable {
 
-    private static final long serialVersionUID = 8177020083886379563L;
+    private static final long serialVersionUID = 8591862358584553983L;
 
     private DatumReader<GenericRecord> reader = null;
 
